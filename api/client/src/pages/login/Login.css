@@ -1,0 +1,70 @@
+/* login.css */
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    /* background-color: transparent;  */
+    /* background-image: url('https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png'); */
+    /* background-repeat: no-repeat; */
+    /* background-size: 100%; */
+    margin-left: 30%;
+    width: 500px;
+    
+  }
+  
+  .login-form-box {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 600px;
+    width: 100%;
+  }
+  
+  .login-heading {
+    color: #333;
+  }
+  
+  .login-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .login-label {
+    margin-bottom: 8px;
+    color: #555;
+  }
+  
+  .login-input {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .login-button {
+    background-color: #ff6347;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .login-button:hover {
+    background-color: #e23e29;
+  }
+  .regis{
+    border: 2px solid white;
+    color:white;
+    background-color: #e23e29;
+    border-radius: 6px;
+  }
+  .reg{
+    margin-top: 5px;
+    
+  }
+ 
